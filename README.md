@@ -1,0 +1,1 @@
+This is Erick's fist git project!
